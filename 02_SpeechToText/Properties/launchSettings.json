@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Recognize": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "D:/RespiratiON/respiration-1582892613007-19883382fde4.json"
+      }
+    }
+  }
+}

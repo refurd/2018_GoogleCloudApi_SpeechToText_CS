@@ -1,0 +1,4 @@
+Respiration_SpeechControl_v01_00	Angol nyelven figyel adott szavakat. Ha ezeket felismeri egy textboxba írja.
+Respiration_SpeechControl_v01_01	A CMD manager kisbetűsre és tömbbe formázza a bevitt szöveget
+Respiration_SpeechControl_v01_02	A mainben van összebaszva minden, meg vannak a függvények a bevitt szövegben az ige kereséséhez és a
+################################	leszűrt, formázott 2D tömb előállításához.(egy cellán belül nem ismer fel több szót)

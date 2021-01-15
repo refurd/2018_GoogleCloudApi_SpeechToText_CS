@@ -1,0 +1,7 @@
+﻿Igekötő 1	Igekötő 2	Állítmány	Határozó 1	Határozó 2	Melléknév 1	Melléknév 2	Alany	Melléknév 3	Melléknév 4	Érték 1	Érték 2	Év1	Hónap1	Nap1	Óra1	Perc1	Másodperc1	Év2	Hónap2	Nap2	Óra2	Perc2	Másodperc2
+		kapcsold	fel				lámpát																
+		állítsd	be			fürdőszobai	fűtést;hőmérsékletet	fokra		23													
+		adj	hozzá				naptárbejegyzést					2020	február	28									
+		nyisd	fel|ki				ablakot		fokra	14													
+		kapcsold	ki				mikrót																
+		kapcsold	le			konyha	lámpát																
